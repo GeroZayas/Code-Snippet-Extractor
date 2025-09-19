@@ -1,0 +1,5 @@
+{
+  "name": "Code Snippet Extractor",
+  "description": "An intelligent app that analyzes code from various languages, extracts reusable functions and classes as snippets, and organizes them by purpose for easy reuse. Features syntax highlighting and one-click copy.",
+  "requestFramePermissions": []
+}
